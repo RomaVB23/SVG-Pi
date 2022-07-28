@@ -9,3 +9,8 @@ Check out its different implementations using the links below.
 - [Static version](https://github.com/c99rahul/SVG-Pi/tree/main/svg-pi-static)
 - [Interactive version](https://github.com/c99rahul/SVG-Pi/tree/main/svg-pi-interactive)
 - [React implementation](https://github.com/c99rahul/SVG-Pi/tree/main/svg-pi-react)
+
+# https://blog.logrocket.com/build-svg-circular-progress-component-react-hooks/
+
+## благодарен автору за статью 
+## форкнул для себя, чтоб когда найдетс время, попытаться реализовать его задумку для React Native
